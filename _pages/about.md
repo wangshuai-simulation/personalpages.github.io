@@ -15,13 +15,13 @@ My research interests mainly focus on Computational Biophysics and Biochemistry.
 
 Publications
 ======
-4. Wang Shuai, Gao Jun, Chu Xiakun*. Residue-specific structural and dynamical coupling of protein and hydration water revealed by molecular dynamics simulations. Biomolecules. 2025, 15(5), 1-21
+1. Wang Shuai, Gao Jun, Chu Xiakun*. Residue-specific structural and dynamical coupling of protein and hydration water revealed by molecular dynamics simulations. Biomolecules. 2025, 15(5), 1-21
 
-3. He Yongqiang#, Wang Shuai#, Wen Junping, Feng Niu, Ma Ruxiang, Zhang Hetong, Chen Guoxun, Chu Xiakun, Chen Yiping*. Redesigned Guide DNA Enhanced Clostridium butyricum Argonaute Activity for Amplification-Free and Multiplexed Detection of Pathogens. Nano Letters. 2024, 24, 9750–9759.
+2. He Yongqiang#, Wang Shuai#, Wen Junping, Feng Niu, Ma Ruxiang, Zhang Hetong, Chen Guoxun, Chu Xiakun, Chen Yiping*. Redesigned Guide DNA Enhanced Clostridium butyricum Argonaute Activity for Amplification-Free and Multiplexed Detection of Pathogens. Nano Letters. 2024, 24, 9750–9759.
 
-2. Wang Shuai, Ou Xinwen, Yi Ming*, Li Jingyuan*. Spontaneous desorption of protein from self-assembled monolayer (SAM)-coated gold nanoparticles induced by high temperature. Physical Chemistry Chemical Physics, 2022, 24, 2363-2370.
+3. Wang Shuai, Ou Xinwen, Yi Ming*, Li Jingyuan*. Spontaneous desorption of protein from self-assembled monolayer (SAM)-coated gold nanoparticles induced by high temperature. Physical Chemistry Chemical Physics, 2022, 24, 2363-2370.
 
-1. Wang Shuai, Ou Xinwen, Wutthinitikornkit Yanee, Yi Ming*, Li Jingyuan*. Effects of the surface polarity of nanomaterials on their interaction with complement protein gC1q. RSC Advances, 2020, 10, 41993-42000.
+4. Wang Shuai, Ou Xinwen, Wutthinitikornkit Yanee, Yi Ming*, Li Jingyuan*. Effects of the surface polarity of nanomaterials on their interaction with complement protein gC1q. RSC Advances, 2020, 10, 41993-42000.
 
    
 
