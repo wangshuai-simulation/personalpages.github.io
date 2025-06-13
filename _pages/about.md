@@ -19,11 +19,12 @@ Wang Shuai, Gao Jun, Chu Xiakun*. Residue-specific structural and dynamical coup
 
 He Yongqiang#, Wang Shuai#, Wen Junping, Feng Niu, Ma Ruxiang, Zhang Hetong, Chen Guoxun, Chu Xiakun, Chen Yiping*. Redesigned Guide DNA Enhanced Clostridium butyricum Argonaute Activity for Amplification-Free and Multiplexed Detection of Pathogens. Nano Letters. 2024, 24, 9750–9759.
 
-Wang Shuai, Ou Xinwen, Yi Ming*, Li Jingyuan*. Spontaneous desorption of protein from self-assembled monolayer (SAM)-coated gold nanoparticles induced by high temperature. Physical Chemistry Chemical Physics, 2022, 24, 2363-2370.
+•	2. Wang Shuai, Ou Xinwen, Yi Ming*, Li Jingyuan*. Spontaneous desorption of protein from self-assembled monolayer (SAM)-coated gold nanoparticles induced by high temperature. Physical Chemistry Chemical Physics, 2022, 24, 2363-2370.
 
-Wang Shuai, Ou Xinwen, Wutthinitikornkit Yanee, Yi Ming*, Li Jingyuan*. Effects of the surface polarity of nanomaterials on their interaction with complement protein gC1q. RSC Advances, 2020, 10, 41993-42000.
+1. Wang Shuai, Ou Xinwen, Wutthinitikornkit Yanee, Yi Ming*, Li Jingyuan*. Effects of the surface polarity of nanomaterials on their interaction with complement protein gC1q. RSC Advances, 2020, 10, 41993-42000.
+   
 
-Getting started
+Project
 ======
 1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
 1. Fork [this template](https://github.com/academicpages/academicpages.github.io) by clicking the "Use this template" button in the top right. 
