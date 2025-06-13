@@ -17,13 +17,15 @@ Publications
 ======
 1. Yongqiang He#, Jinyu Chen#, Niu Feng#, <u>Shuai Wang</u>, Jiahu Tang, Junping Wen, Xufeng Wang, Zhengzhang Huang, Yingying Lu, Shu Wang\*, Xiakun Chu\*, and Yiping Chen\*. Nucleotide-Quencher Synergy Mediated Fluorescence Amplification for High-Sensitivity Biosensing. *Nature Communications* (Under Review).
 
-2. <u>Wang Shuai</u>, Gao Jun, Chu Xiakun\*. Residue-specific structural and dynamical coupling of protein and hydration water revealed by molecular dynamics simulations. *Biomolecules*. 2025, 15(5), 1-21
+2. Huang Yaqian#, Wang Yuan#, Li Wei#, <u>Wang Shuai</u>, Peng Hanlin, Wang Li, Zhang Lulu, Chen Selena, Bu Dingfang, Zhang Heng, Cui Changting, Cui Qinghua, Geng Bin, Yang Jichun, Chen Nan, Wang Chu, Chu Ming, Tang Chaoshu, Du Junbao\*, Li Jingyuan\*, Jin Hongfang\*. H2S alters HNF1α conformation by persulfidating its cysteine-241 to control hyperlipidemia: in vivo, in vitro and molecular dynamics simulation study.*Arteriosclerosis, Thrombosis, and Vascular Biology* (Major revision).
 
-3. He Yongqiang#, <u>Wang Shuai</u>#, Wen Junping, Feng Niu, Ma Ruxiang, Zhang Hetong, Chen Guoxun, Chu Xiakun, Chen Yiping\*. Redesigned Guide DNA Enhanced Clostridium butyricum Argonaute Activity for Amplification-Free and Multiplexed Detection of Pathogens. *Nano Letters*. 2024, 24, 9750–9759.
+9. <u>Wang Shuai</u>, Gao Jun, Chu Xiakun\*. Residue-specific structural and dynamical coupling of protein and hydration water revealed by molecular dynamics simulations. *Biomolecules*. 2025, 15(5), 1-21
 
-4. <u>Wang Shuai</u>, Ou Xinwen, Yi Ming\*, Li Jingyuan\*. Spontaneous desorption of protein from self-assembled monolayer (SAM)-coated gold nanoparticles induced by high temperature. *Physical Chemistry Chemical Physics*, 2022, 24, 2363-2370.
+10. He Yongqiang#, <u>Wang Shuai</u>#, Wen Junping, Feng Niu, Ma Ruxiang, Zhang Hetong, Chen Guoxun, Chu Xiakun, Chen Yiping\*. Redesigned Guide DNA Enhanced Clostridium butyricum Argonaute Activity for Amplification-Free and Multiplexed Detection of Pathogens. *Nano Letters*. 2024, 24, 9750–9759.
 
-5. <u>Wang Shuai</u>, Ou Xinwen, Wutthinitikornkit Yanee, Yi Ming\*, Li Jingyuan\*. Effects of the surface polarity of nanomaterials on their interaction with complement protein gC1q. *RSC Advances*, 2020, 10, 41993-42000.
+11. <u>Wang Shuai</u>, Ou Xinwen, Yi Ming\*, Li Jingyuan\*. Spontaneous desorption of protein from self-assembled monolayer (SAM)-coated gold nanoparticles induced by high temperature. *Physical Chemistry Chemical Physics*, 2022, 24, 2363-2370.
+
+12. <u>Wang Shuai</u>, Ou Xinwen, Wutthinitikornkit Yanee, Yi Ming\*, Li Jingyuan\*. Effects of the surface polarity of nanomaterials on their interaction with complement protein gC1q. *RSC Advances*, 2020, 10, 41993-42000.
 
    
 
