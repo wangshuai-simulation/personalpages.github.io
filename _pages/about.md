@@ -15,9 +15,11 @@ My research interests mainly focus on Computational Biophysics and Biochemistry.
 
 Publications
 ======
-1. Yongqiang He#, Jinyu Chen#, Niu Feng#, <u>Shuai Wang</u>, Jiahu Tang, Junping Wen, Xufeng Wang, Zhengzhang Huang, Yingying Lu, Shu Wang\*, Xiakun Chu\*, and Yiping Chen\*. Nucleotide-Quencher Synergy Mediated Fluorescence Amplification for High-Sensitivity Biosensing. *Nature Communications* (Under Review).
+1. Wang Shuai, Chu Xiakun\*. Underlying mechanisms of enhanced CRISPR-Cas12f variant activity revealed by molecular dynamics simulations (In preparation).
 
-2. Huang Yaqian#, Wang Yuan#, Li Wei#, <u>Wang Shuai</u>, Peng Hanlin, Wang Li, Zhang Lulu, Chen Selena, Bu Dingfang, Zhang Heng, Cui Changting, Cui Qinghua, Geng Bin, Yang Jichun, Chen Nan, Wang Chu, Chu Ming, Tang Chaoshu, Du Junbao\*, Li Jingyuan\*, Jin Hongfang\*. H2S alters HNF1α conformation by persulfidating its cysteine-241 to control hyperlipidemia: in vivo, in vitro and molecular dynamics simulation study. *Arteriosclerosis, Thrombosis, and Vascular Biology* (Major revision).
+2. Yongqiang He#, Jinyu Chen#, Niu Feng#, <u>Shuai Wang</u>, Jiahu Tang, Junping Wen, Xufeng Wang, Zhengzhang Huang, Yingying Lu, Shu Wang\*, Xiakun Chu\*, and Yiping Chen\*. Nucleotide-Quencher Synergy Mediated Fluorescence Amplification for High-Sensitivity Biosensing. *Nature Communications* (Under Review).
+
+3. Huang Yaqian#, Wang Yuan#, Li Wei#, <u>Wang Shuai</u>, Peng Hanlin, Wang Li, Zhang Lulu, Chen Selena, Bu Dingfang, Zhang Heng, Cui Changting, Cui Qinghua, Geng Bin, Yang Jichun, Chen Nan, Wang Chu, Chu Ming, Tang Chaoshu, Du Junbao\*, Li Jingyuan\*, Jin Hongfang\*. H2S alters HNF1α conformation by persulfidating its cysteine-241 to control hyperlipidemia: in vivo, in vitro and molecular dynamics simulation study. *Arteriosclerosis, Thrombosis, and Vascular Biology* (Major revision).
 
 9. <u>Wang Shuai</u>, Gao Jun, Chu Xiakun\*. Residue-specific structural and dynamical coupling of protein and hydration water revealed by molecular dynamics simulations. *Biomolecules*. 2025, 15(5), 1-21
 
@@ -32,12 +34,6 @@ Publications
 News
 ======
 1. 
-1. 
-1. 
-1. 
-1.   
-
-
 
 Notes
 ------
