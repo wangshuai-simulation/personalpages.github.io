@@ -19,7 +19,7 @@ Publications
 
 2. He Yongqiang#, Wang Shuai#, Wen Junping, Feng Niu, Ma Ruxiang, Zhang Hetong, Chen Guoxun, Chu Xiakun, Chen Yiping*. Redesigned Guide DNA Enhanced Clostridium butyricum Argonaute Activity for Amplification-Free and Multiplexed Detection of Pathogens. Nano Letters. 2024, 24, 9750–9759.
 
-3. Wang Shuai, Ou Xinwen, Yi Ming*, Li Jingyuan*. Spontaneous desorption of protein from self-assembled monolayer (SAM)-coated gold nanoparticles induced by high temperature. Physical Chemistry Chemical Physics, 2022, 24, 2363-2370.
+3. <u>Wang Shuai</u>, Ou Xinwen, Yi Ming*, Li Jingyuan*. Spontaneous desorption of protein from self-assembled monolayer (SAM)-coated gold nanoparticles induced by high temperature. Physical Chemistry Chemical Physics, 2022, 24, 2363-2370.
 
 4. Wang Shuai, Ou Xinwen, Wutthinitikornkit Yanee, Yi Ming*, Li Jingyuan*. Effects of the surface polarity of nanomaterials on their interaction with complement protein gC1q. RSC Advances, 2020, 10, 41993-42000.
 
@@ -29,8 +29,8 @@ Project
 ======
 1. 
 1. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
+1. 
+1. 
 1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
 1. Check status by going to the repository settings, in the "GitHub pages" section
 
