@@ -15,19 +15,20 @@ My research interests mainly focus on Computational Biophysics and Biochemistry.
 
 Publications
 ======
-Wang Shuai, Gao Jun, Chu Xiakun*. Residue-specific structural and dynamical coupling of protein and hydration water revealed by molecular dynamics simulations. Biomolecules. 2025, 15(5), 1-21
+4. Wang Shuai, Gao Jun, Chu Xiakun*. Residue-specific structural and dynamical coupling of protein and hydration water revealed by molecular dynamics simulations. Biomolecules. 2025, 15(5), 1-21
 
-He Yongqiang#, Wang Shuai#, Wen Junping, Feng Niu, Ma Ruxiang, Zhang Hetong, Chen Guoxun, Chu Xiakun, Chen Yiping*. Redesigned Guide DNA Enhanced Clostridium butyricum Argonaute Activity for Amplification-Free and Multiplexed Detection of Pathogens. Nano Letters. 2024, 24, 9750–9759.
+3. He Yongqiang#, Wang Shuai#, Wen Junping, Feng Niu, Ma Ruxiang, Zhang Hetong, Chen Guoxun, Chu Xiakun, Chen Yiping*. Redesigned Guide DNA Enhanced Clostridium butyricum Argonaute Activity for Amplification-Free and Multiplexed Detection of Pathogens. Nano Letters. 2024, 24, 9750–9759.
 
-•	2. Wang Shuai, Ou Xinwen, Yi Ming*, Li Jingyuan*. Spontaneous desorption of protein from self-assembled monolayer (SAM)-coated gold nanoparticles induced by high temperature. Physical Chemistry Chemical Physics, 2022, 24, 2363-2370.
+2. Wang Shuai, Ou Xinwen, Yi Ming*, Li Jingyuan*. Spontaneous desorption of protein from self-assembled monolayer (SAM)-coated gold nanoparticles induced by high temperature. Physical Chemistry Chemical Physics, 2022, 24, 2363-2370.
 
 1. Wang Shuai, Ou Xinwen, Wutthinitikornkit Yanee, Yi Ming*, Li Jingyuan*. Effects of the surface polarity of nanomaterials on their interaction with complement protein gC1q. RSC Advances, 2020, 10, 41993-42000.
+
    
 
 Project
 ======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this template](https://github.com/academicpages/academicpages.github.io) by clicking the "Use this template" button in the top right. 
+1. 
+1. 
 1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
 1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
 1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
