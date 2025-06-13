@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I (Shuai Wang 王帅) obtained my Ph.D. degree in bioinformatics at Huazhong Agricultural University. [Academic Pages](https://github.com/wangshuai-simulation/personalpages.github.io) [GitHub pages](https://github.com/wangshuai-simulation) 
+I (Shuai Wang 王帅) obtained my Ph.D. degree in bioinformatics at Huazhong Agricultural University. [GitHub pages](https://github.com/wangshuai-simulation) 
 
 My research interests mainly focus on Computational Biophysics and Biochemistry.
 
