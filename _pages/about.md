@@ -28,7 +28,7 @@ Publications
 11. <u>Wang Shuai</u>, Ou Xinwen, Yi Ming\*, Li Jingyuan\*. Spontaneous desorption of protein from self-assembled monolayer (SAM)-coated gold nanoparticles induced by high temperature. *Physical Chemistry Chemical Physics*, 2022, 24, 2363-2370.
 
 12. <u>Wang Shuai</u>, Ou Xinwen, Wutthinitikornkit Yanee, Yi Ming\*, Li Jingyuan\*. Effects of the surface polarity of nanomaterials on their interaction with complement protein gC1q. *RSC Advances*, 2020, 10, 41993-42000.
-13. Mao Song, <u>Wang Shuai</u>, Deng Haiyou\*, Yi Ming\*. Effects of Mg2+ on the binding of the CREB/CRE complex: Full-atom molecular dynamics simulations. Chinese Physics B, 2019, 28, 621-628.
+13. Mao Song, <u>Wang Shuai</u>, Deng Haiyou\*, Yi Ming\*. Effects of Mg2+ on the binding of the CREB/CRE complex: Full-atom molecular dynamics simulations. *Chinese Physics B*, 2019, 28, 621-628.
 
    
 
